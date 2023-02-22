@@ -1,17 +1,17 @@
 {
     "education":[
         {
-            "title": "Jun 20XX - Jun 20YY",
-            "cardTitle": "B.Tech, Computer Science",
-            "cardSubtitle":"XYZ University, City",
-            "cardDetailedText": "CGPA - 9.5",
+            "title": "september 2019 - July 2021",
+            "cardTitle": "Master, information systeme and network",
+            "cardSubtitle":"University Of Dschang",
+            "cardDetailedText": "Marks - B+",
             "icon" : {
                 "src": "images/education/lorem-ipsum.png"
             }
         },
         {
-            "title": "july 2018",
-            "cardTitle": "bachelor",
+            "title": "September 2018 - july 2019",
+            "cardTitle": "bachelor, software ingineering",
             "cardSubtitle":"University Of Dschang",
             "cardDetailedText": "Marks - C+"
         }

@@ -31,7 +31,7 @@
             "items" : [
                 {
                     "icon": "images/skills/android_new.png",
-                    "title": "Android"
+                    "title": "C"
                 },
                 {
                     "icon": "images/skills/react.png",
@@ -48,7 +48,7 @@
             "items": [
                 {
                     "icon": "images/skills/android-studio.png",
-                    "title": "Android Studio"
+                    "title": "Netbeans"
                 },
                 {
                     "icon": "images/skills/git.png",
