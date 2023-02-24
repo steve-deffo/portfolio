@@ -3,7 +3,7 @@
 ## A minimal portfolio template for Developers!
 
 <h2 align="center">
-  <img src="https://github.com/mayankagarwal09/dev-portfolio/blob/master/images/dev-portfolio.gif" alt="Dev Portfolio" />
+  <img src="https://github.com/steve-deffo" alt="Dev Portfolio" />
   <br>
 </h2>
 
@@ -43,7 +43,7 @@ From your command line, first clone Dev Portfolio:
 
 ```bash
 # Clone the repository
-$ git clone https://github.com/mayankagarwal09/dev-portfolio
+$ git clone https://github.com/steve-deffo
 
 # Move into the repository
 $ cd dev-portfolio
@@ -230,7 +230,7 @@ It has 2 keys, *logo* and *sections*.
 | key | Description |
 | ----------- | ----------- |
 | social | array of social links | 
-| social.network | network name as provided in [react-social-icons](https://jaketrent.github.io/react-social-icons/) |
+| social.network | network name as provided in [react-social-icons](https://jaketrent..io/react-social-icons/) |
 | social.href | link for particular social network |
 
 - we are using [react-social-icons](https://jaketrent.github.io/react-social-icons/) here. you can visit it to see all available social icons to use
@@ -404,11 +404,11 @@ It has 2 keys, *logo* and *sections*.
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/dev-portfolio"
+                    "href": "https://github.com/steve-deffo"
                 },
                 {
                     "text": "Live",
-                    "href": "https://mayankagarwal.me"
+                    "href": "https://steve-deffo.me"
                 }
             ],
             "tags" : [
@@ -423,7 +423,7 @@ It has 2 keys, *logo* and *sections*.
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/mvvm-sample-app"
+                    "href": "https://github.com/steve-deffo"
                 }
             ],
             "tags" : [
@@ -443,7 +443,7 @@ It has 2 keys, *logo* and *sections*.
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/task-tracker-app"
+                    "href": "https://github.com/steve-deffo"
                 }
             ],
             "tags" : [
@@ -548,7 +548,7 @@ I highly recommend to use [Vercel](https://vercel.app) because it is super easy.
 
 ## Authors
 
-- **Mayank Agarwal** - [https://github.com/mayankagarwal09](https://github.com/mayankagarwal09)
+- **Mayank Agarwal** - [https://.com/mayankagarwal09](https://github.com/mayankagarwal09)
 
 ## Support
 
